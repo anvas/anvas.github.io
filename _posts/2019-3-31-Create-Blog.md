@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Рождение блога!
+title: Создание блога!
 ---
 
 Сегодня я создал свой блог, используя Jekyll и Github Pages.
