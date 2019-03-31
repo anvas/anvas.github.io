@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Всем привет!
+Меня зовут Андрей, мне 35 лет.
+В данный момент я активно изучаю Java и хочу стать Java Developer.
+Этот блог я создал, в первую очередь, для того, чтобы отслеживать свое обучение, писать о том, что я изучил, о моем продвижении к 
+поставленной цели.
 
-### More Information
+### Исходные данные
 
-A place to include any other types of information that you'd like to include about yourself.
+* 35 лет.
+* Программированием раньше не занимался.
+* Английский язык на уровне Beginer.
+* Семья и двое детей.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Связаться со мной
+
+[shebeshan@gmail.com](mailto:shebeshan@gmail.com)
