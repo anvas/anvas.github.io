@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /Обо мне/
+title: Обо мне
+permalink: /about/
 ---
 
 Всем привет!
